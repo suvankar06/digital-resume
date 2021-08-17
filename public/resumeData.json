@@ -1,0 +1,109 @@
+{
+  "main": {
+    "name": "Suvankar Singh",
+    "occupation": "FRONT END DEVELOPER ",
+    "description": "GOOD UI's ARE THE PEACE OF EYES",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Suvankar! As a Front end developer I've interned  with startup  to help build & scale their companies. Along the journey I realised my passion existed in front end system design and I put efforts to make myself a good developer. With this passion, I have now trained myself. Through live coaching sessions on Youtube, I have accumulated several skills. I get REAL VALUE by participating REAL WORLD projects to help myslef and enter the world of web development.",
+    "contactmessage": "Get in touch with me!",
+    "email": "suvankarxavi.singh06@gmail.com",
+    "phone": "+91 6290186139",
+    "address": {
+      "street": "Nangi Sreemapally",
+      "city": "Kolkata",
+      "state": "West Bangal",
+      "zip": "700140"
+    },
+    "resumedownload": "https://drive.google.com/file/d/1x_jlzvRNfuhivUUyVJ23XpgTY5yxG3Yb/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/suvankar.singh.5",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/suvankarsingh",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/suvankar_r02/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/suvankar06",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "University of North bengal",
+        "degree": "Master's Degree, Computer Application",
+        "graduated": "Aug 2021",
+        "description": "Post Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Distronix",
+        "title": "Junior Software Developer Intern",
+        "years": "April 2021 - Aug 2021",
+        "description": "Design system UI and integrate APIs for the backend support ."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "50%"
+      },
+      {
+        "name": "Web Development",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Netflix Clone (React Js)",
+        "category": "",
+        "image": "netflix-logo.png",
+        "url": "http://netflix-suvankar.netlify.app/"
+      },
+      {
+        "title": "Amazon Clone (React JS)",
+        "category": "",
+        "image": "amazon.png"
+       
+      },
+      {
+        "title": "Covid Monitoring System",
+        "category": "",
+        "image": "covid.jpg",
+        "url": "https://youtu.be/QaYts9sPmcY"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Suvankar is absolutely excellent, sincere in his work with an honest approach towards the assignments given to him",
+        "user": "Rohit Sarkar (CEO , Distronix)"
+      }
+      
+    ]
+  }
+}
