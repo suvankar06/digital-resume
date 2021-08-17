@@ -1,6 +1,6 @@
 # Suvankar Digital Portfolio
 
-![ React JS Portfolio ](demo.png?raw=true " React JS Portfolio  ")
+
 
 ### <a href="https://suvankarsingh.netlify.app/">LIVE DEMO</a>
 
