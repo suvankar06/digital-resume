@@ -1,8 +1,8 @@
-# PAPA React JS Resume Starter Pack and Digital Portfolio
+# Suvankar Digital Portfolio
 
-![PAPA React JS Portfolio Starter Pack](resume-screenshot.jpg?raw=true "PAPA React JS Portfolio Stater Pack ")
+![ React JS Portfolio ](demo.png?raw=true " React JS Portfolio  ")
 
-### <a href="https://resume-portfolio-starter-pack.herokuapp.com">LIVE DEMO</a>
+### <a href="https://suvankarsingh.netlify.app/">LIVE DEMO</a>
 
 ## Resume Starter Pack Description
 
@@ -16,7 +16,7 @@ Firstly, you will need to download the latest version of Node by <a href="https:
 
 Next, you will need to run the following command in the Terminal to clone the repo onto your machine.
 
-```git clone https://github.com/sonnysangha/Resume-Portfolio-Starter-pack.git```
+```git clone https://github.com/suvankar06/digital-resume.git```
 
 ## 3. Install Dependancies
 
@@ -52,6 +52,3 @@ Once all the formatting and data input is finalised, run `npm run build`. This w
 
 ## Credits
 
-##### Original Idea
-
-<a href="https://github.com/tbakerx/react-resume-template/blob/master/README.md">Inspiration from Tim Baker (tbakerx)</a>
